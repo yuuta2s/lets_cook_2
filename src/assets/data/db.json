@@ -1,0 +1,102 @@
+ [
+    {
+      "id": "recipe-01",
+      "title": "",
+      "difficulty": 2,
+      "category": "Burger",
+      "description": "Un burger savoureux avec une touche classique. Ingrédients frais et un steak juteux pour une expérience culinaire inoubliable.",
+      "imageUrl": "images/HAMBURGER.jpg",
+      "date": "2024-02-22",
+      "author": "Geto Suguru"
+    },
+    {
+      "id": "recipe-02",
+      "title": "Mozza Sticks",
+      "difficulty": 3,
+      "category": "Mozza",
+      "description": "Des sticks mozza tres bon.",
+      "imageUrl": "images/MOZZASTICK.jpg",
+      "date": "2024-02-22",
+      "author": "Geto Suguru"
+    },
+    {
+      "id": "recipe-03",
+      "title": "Pizza Margherita",
+      "difficulty": 2,
+      "category": "Pizza",
+      "description": "Une pizza simple mais élégante, avec de la mozzarella fraîche, des tomates et du basilic.",
+      "imageUrl": "images/HEARTPIZZA.jpg",
+      "date": "2024-02-22",
+      "author": "Geto Suguru"
+    },
+    {
+      "id": "recipe-04",
+      "title": "Ramen Konkatsu",
+      "difficulty": 4,
+      "category": "Pasta",
+      "description": "Un plat de ramen japonais a la garniture de votre choix et au konkatsu de poulet.",
+      "imageUrl": "images/RAMEN.jpg",
+      "date": "2024-02-22",
+      "author": "Geto Suguru"
+    },
+    {
+      "id": "recipe-05",
+      "title": "Corn Dogs",
+      "difficulty": 1,
+      "category": "Salad",
+      "description": "Corn Dogs fourré a la mozza et a la saucisse.",
+      "imageUrl": "images/CORNDOG.jpg",
+      "date": "2024-02-22",
+      "author": "Geto Suguru"
+    },
+    {
+      "id": "recipe-06",
+      "title": "Curry poulet",
+      "difficulty": 4,
+      "category": "Chicken",
+      "description": "Un curry au poulet a l'éfigie de Miffy.",
+      "imageUrl": "images/MIFFYCURRY.jpg",
+      "date": "2024-02-22",
+      "author": "Geto Suguru"
+    },
+    {
+      "id": "recipe-07",
+      "title": "Tangulu",
+      "difficulty": 1,
+      "category": "Fruits",
+      "description": "Une brochette de fruits délicieuse.",
+      "imageUrl": "images/TANGULU.jpg",
+      "date": "2024-02-22",
+      "author": "Geto Suguru"
+    },
+    {
+      "id": "recipe-10",
+      "title": "Makanan",
+      "difficulty": 3,
+      "category": "cake",
+      "description": "Délicieux donuts a la farine de riz.",
+      "imageUrl": "images/MAKANAN.jpg",
+      "date": "2024-02-22",
+      "author": "Geto Suguru"
+    },
+    {
+      "id": "recipe-11",
+      "title": "Cinnamon Rolls",
+      "difficulty": 4,
+      "category": "cake",
+      "description": "Des brioches sucrées a la canelle.",
+      "imageUrl": "images/CINNAMONROLL.jpg",
+      "date": "2024-02-22",
+      "author": "Geto Suguru"
+    },
+    {
+      "id": "recipe-12",
+      "title": "Tteobokki",
+      "difficulty": 1,
+      "category": "Tarte",
+      "description": "Gateaux de riz savoureux a la sauce gochujang.",
+      "imageUrl": "images/TTEOBOKKI.jpg",
+      "date": "2024-02-22",
+      "author": "Geto Suguru"
+    }
+  ]
